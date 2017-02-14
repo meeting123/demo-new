@@ -393,17 +393,11 @@
 	box-sizing:border-box;
 	background:white;
 	margin-right:5.5%;
-	padding:110px 15px 30px 15px;
+	padding:30px 15px 30px 15px;
 	text-align:center;
 	box-shadow:0px 2px #DEDEDE;
 }
-#dCenter-1>img,#dCenter-2>img,#dCenter-3>img,#dCenter-4>img
-{
-	position:absolute;
-	top:0px;
-	left:-10px;
 
-}
 #dCenter-4
 {
 	margin-right:0px;
